@@ -1,0 +1,10 @@
+Suhe,98,eregtei
+Saraa,98,emegtei
+Temka,95,eregtei
+Ali,96,eregtei
+Nandia,93,emegtei
+Nomio,95,emegtei
+Tugsuu,90,eregtei
+Batuka,98,eregtei
+Saruul,97,emegtei
+Bulgaa,93,eregtei

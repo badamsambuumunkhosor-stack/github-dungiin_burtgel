@@ -1,0 +1,12 @@
+with open("ners.txt", "w", encoding="utf-8") as f:
+    f.write("Suhe,98,eregtei\n")
+    f.write("Saraa,98,emegtei\n")
+    f.write("Temka,95,eregtei\n")
+    f.write("Ali,96,eregtei\n")
+    f.write("Nandia,93,emegtei\n")
+    f.write("Nomio,95,emegtei\n")
+    f.write("Tugsuu,90,eregtei\n")
+    f.write("Batuka,98,eregtei\n")
+    f.write("Saruul,97,emegtei\n")
+    f.write("Bulgaa,93,eregtei\n")
+    print(f.r())
